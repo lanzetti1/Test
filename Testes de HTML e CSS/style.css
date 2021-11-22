@@ -1,18 +1,51 @@
+
+
 body{
-    background-color: cadetblue;
+    background-color: rgb(227, 234, 235);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-#title,.subtitle, .post_title {
-    color: blue;
+
+.photo {
+    border: 3px solid rgb(37, 37, 37);
+    border-radius: 5%;
+}
+
+#title,.subtitle, .post_title, {
+    
+    color: rgb(178, 178, 187);
+}
+
+#title {
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: line-through;
+    color: blueviolet;
 }
 
 .post_title {
     font-size: 16px;
     font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
 }
 
 .post {
     background-color: white;
-    padding: 10 px;
-    border: 3px solid black;
-    margin: 10 px;
+    padding: 10px;
+    border: 3px solid rgb(37, 37, 37);
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+.post_content {
+    margin: 0;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+}
+
+.post_image {
+    margin-bottom: 15px;
 }
