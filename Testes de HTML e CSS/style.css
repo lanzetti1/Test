@@ -10,9 +10,8 @@ body{
     border-radius: 5%;
 }
 
-#title,.subtitle, .post_title, {
-    
-    color: rgb(178, 178, 187);
+#title,.subtitle, .post_title, {    
+    text-decoration-color: rgb(178, 178, 187);
 }
 
 #title {
@@ -21,8 +20,8 @@ body{
 }
 
 a {
-    text-decoration: line-through;
-    color: blueviolet;
+    text-decoration-style: line-through;
+    text-decoration-color: blueviolet;
 }
 
 .post_title {
