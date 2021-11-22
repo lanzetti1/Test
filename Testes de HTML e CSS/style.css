@@ -20,8 +20,8 @@ body{
 }
 
 a {
-    text-decoration-style: line-through;
-    text-decoration-color: blueviolet;
+    text-decoration: line-through;
+    color: red;
 }
 
 .post_title {
@@ -47,4 +47,14 @@ a {
 
 .post_image {
     margin-bottom: 15px;
+}
+
+.contact_list {
+    list-style-type: none;
+    padding-left: 15px;
+}
+
+.contact_list li a {
+    color: blueviolet;
+    text-decoration: none;
 }
