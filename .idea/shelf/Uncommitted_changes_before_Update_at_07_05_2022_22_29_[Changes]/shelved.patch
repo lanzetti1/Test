@@ -1,0 +1,8 @@
+Index: BDcomdjango/manage.py
+===================================================================
+diff --git a/BDcomdjango/manage.py b/BDcomdjango/manage.py
+deleted file mode 100644
+--- a/BDcomdjango/manage.py	(revision 797d628efdc9eee2763d74bd117b7a63300de794)
++++ /dev/null	(revision 797d628efdc9eee2763d74bd117b7a63300de794)
+@@ -1,1 +0,0 @@
+-
