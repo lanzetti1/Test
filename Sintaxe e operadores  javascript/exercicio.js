@@ -28,7 +28,7 @@ function criaPrimeiraFrase(num1, num2)  {
         saoIguais = 'não';
     }
 
-    retun 'Os números ${num1} e $num2} ${sãoIguais} são iguais.'
+    return 'Os números ${num1} e $num2} ${sãoIguais} são iguais.'
 }
 
 function criaSegundaFrase(num1, num2){
@@ -48,7 +48,7 @@ function criaSegundaFrase(num1, num2){
         resultado20 = 'maior';
     }
 
-    retun 'Sua soma é ${soma}, que é ${resultado10} que 10 e ${resultado20} que 20';
+    return 'Sua soma é ${soma}, que é ${resultado10} que 10 e ${resultado20} que 20';
 }
 
 console.log(comparaNumeros(1, 2));
