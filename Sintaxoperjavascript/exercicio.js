@@ -28,7 +28,7 @@ function criaPrimeiraFrase(num1, num2)  {
         saoIguais = 'não';
     }
 
-    return 'Os números ${num1} e $num2} ${sãoIguais} são iguais.'
+    return 'Os números ${num1} e ${num2} ${sãoIguais} são iguais.'
 }
 
 function criaSegundaFrase(num1, num2){
