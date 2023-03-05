@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GzQRYJDbMkCN53INVBJCKg1g4CrSEUsopASkaSTXYUcoqm5/cDgF5HsbA6o3wzqR5ddgGnKjdyt/OMtGZQPYUg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Claudio\\OneDrive\\Documents\\GitHub\\Test\\Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Claudio\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.10\\microsoft.windowsdesktop.app.ref.6.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
